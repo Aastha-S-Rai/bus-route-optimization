@@ -1,0 +1,8 @@
+EXPRESS malad sainath_marg evershine mathura_complex navghar_road jesal_park lata_road sudha_nagar oberoi_park national_park nirmala tpoly mahindra metro_mall asha_nagar tata_tech JPMC
+SERVICE malad sainath_marg evershine mathura_complex navghar_road jesal_park lata_road sudha_nagar ekta_society shanti_nagar jp_nagar petrol_pump TCS petrol_pump TCET dmart rc_church metro_mall asha_nagar tata_tech JPMC
+CITY1 sudha_nagar ekta_society shanti_nagar jp_nagar petrol_pump TCS petrol_pump TCET dmart rc_church metro_mall asha_nagar tata_tech JPMC
+CITY2 sudha_nagar ekta_society shanti_nagar jp_nagar petrol_pump sv_road thakur_village tpoly nirmala national_park TCSC
+CITY3 thakur_village tpoly national_park nirmala rc_church metro_mall asha_nagar tata_tech JPMC
+CITY4 ekta_society shanti_nagar jp_nagar tunga_village SVG ram_mandir tata_tech JPMC
+CITY5 oberoi tunga_village TCS petrol_pump TCET dmart rc_church metro_mall asha_nagar tata_tech JPMC
+CITY6 oberoi_park samta_nagar vasant_complex thakur_village mahindra metro_mall asha_nagar tata_tech JPMC
